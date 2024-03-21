@@ -17,13 +17,18 @@ Linux
 
 
 Open winfile folder for the file in Windows.
+
 Open linux-fileae for the file in Linux
 
 
 Steps for running the file in Windows:-
+
 Extract the .zip file
+
 Go to the winfile folder
+
 Double click on InnocentDevilSoftware.bat
+
 Voila!
 
 Steps for running the file in Linux:-
