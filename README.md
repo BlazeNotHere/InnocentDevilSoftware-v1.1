@@ -27,13 +27,21 @@ Double click on InnocentDevilSoftware.bat
 Voila!
 
 Steps for running the file in Linux:-
+
 Open Terminal
+
 Navigate to Downloads (type 'cd Downloads' in terminal)
+
 Unzip it by typing "unzip InnocentDevilSoftware.zip
+
 Type "cd InnocentDevilSoftware"
+
 Type "cd linux-fileae"
+
 Type "chmod +x InnocentDevilSoftware.sh"
+
 after that, type "./InnocentDevilSoftware.sh"
+
 (if the last step doesnt work try running it with root by adding sudo before ./)
 
 If you like this Software, be sure to give feedback on GitHub
